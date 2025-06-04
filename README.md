@@ -78,7 +78,7 @@ Here are the exploitable vulnerable packages:
 
 The page at `/account_details` is rendered as an Handlebars view.
 
-The same view is used for both the GET request which shows the account details, as well as the form itself for a POST request which updates the account details. A so-called Server-side Rendering.
+The same view is used for both the GET request which shows the  account details, as well as the form itself for a POST request which updates the account details. A so-called Server-side Rendering.
 
 The form is completely functional. The way it works is, it receives the profile information from the `req.body` and passes it, as-is to the template. This however means, that the attacker is able to control a variable that flows directly from the request into the view template library.
 
