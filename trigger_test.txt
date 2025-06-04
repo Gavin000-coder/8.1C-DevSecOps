@@ -1,3 +1,2 @@
-Testing SCM polling trigger for Jenkins.
-# Email Notification Test Commit
+Testing SCM polling trigger for Jenkins
 
