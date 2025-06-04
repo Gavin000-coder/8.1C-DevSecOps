@@ -1,0 +1,1 @@
+Testing SCM polling trigger for Jenkins
