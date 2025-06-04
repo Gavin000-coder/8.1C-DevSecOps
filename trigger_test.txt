@@ -1,2 +1,2 @@
-Testing SCM polling trigger for Jenkins
+Testing SCM polling trigger for Jenkins.
 
